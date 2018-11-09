@@ -8,6 +8,6 @@ public class CsController {
 
 	@GetMapping("cs")
 	public String cs(){
-		return "okle！";
+		return "okle";
 	}
 }
