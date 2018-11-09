@@ -10,4 +10,8 @@ public class CsController {
 	public String cs(){
 		return "okle";
 	}
+	@GetMapping("ds")
+	public String ds(){
+		return "dsokle";
+	}
 }
