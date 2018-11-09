@@ -10,12 +10,5 @@ public class CsController {
 	public String cs(){
 		return "okle";
 	}
-	@GetMapping("ds")
-	public String ds(){
-		return "dsokle";
-	}
-	@GetMapping("ds")
-	public String ds(){
-		return "有错的";
-	}
+
 }
