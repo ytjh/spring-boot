@@ -10,5 +10,8 @@ public class CsController {
 	public String cs(){
 		return "okle";
 	}
-
+	@GetMapping("sy")
+	public String sy(){
+		return "两台都okle";
+	}
 }
