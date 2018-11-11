@@ -12,6 +12,10 @@ public class CsController {
 	}
 	@GetMapping("sy")
 	public String sy(){
-		return "两台都okle";
+		return "两okle";
+	}
+	@GetMapping("sy")
+	public String sy(){
+		return "两okle";
 	}
 }
