@@ -14,8 +14,5 @@ public class CsController {
 	public String sy(){
 		return "两okle";
 	}
-	@GetMapping("sy")
-	public String sy(){
-		return "两okle";
-	}
+
 }
